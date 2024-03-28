@@ -1,0 +1,33 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contact-info {
+    text-align: left;
+    padding: 10px;
+}
+
+.contact-info a {
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.copyright {
+    text-align: right;
+    padding: 10px;
+}

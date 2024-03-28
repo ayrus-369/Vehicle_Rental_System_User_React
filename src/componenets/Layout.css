@@ -1,0 +1,47 @@
+li{
+    padding: 10px;
+}
+.nav-link:hover {
+  color: #fff; /* Change text color on hover */
+  background-color: #007bff; /* Change background color on hover */
+}
+.navbar-nav .nav-link.active {
+  color: #fff; /* Text color for active link */
+  background-color: #007bff; /* Background color for active link */
+  border-radius: 4px; /* Optional: Add rounded corners to active link */
+}
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #333;
+  }
+  li .right
+   {
+    float:right;
+    
+   }
+  li .left
+  {
+    float:left;
+  } */
+
+  
+  /* li a {
+    display: block;
+    color:#ddd;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #060606;
+  }
+  
+  li a.active {
+    color: white;
+    background-color: #31d2f2;
+  } */
